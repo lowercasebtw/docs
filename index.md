@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Welcome
-      link: /welcome
+      link: /docs/welcome
 features:
 ---
 
